@@ -27,7 +27,7 @@ curl -X PUT http://localhost:3000/books/1
 curl -X DELETE http://localhost:3000/books/1
 ```
 
-##Discussion
+## Discussion
 
 [XTDB](https://www.xtdb.com/) Is a natural choice as it provides a basic EAV store with bitemporality, and can use any database engine. In this case an in memory DB is used and it is bootstrapped on server startup
 Clojure with is functional style and immutible datastructures is a great fit for restful APIs, compojure allows declaritive routes and simple/reasonable routing
