@@ -15,7 +15,10 @@
       (json/write-str
        (db/create-book book-data))))
   (compojure/GET "/books/:id" [id] (json/write-str (db/retreive-book (Integer/parseInt id))))
-  (compojure/PUT "/books/:id" [id :as req] (json/write-str (db/retreive-book (Integer/parseInt id))))
+  (compojure/PUT "/books/:id" [id :as req] 
+    (let [book-data (json/read-str (slurp (:body req)) :key-fn keyword)]
+      (json/write-str
+       (db/update-book (Integer/parseInt id) book-data))))
   (compojure/DELETE "/books/:id" [id] 
     (json/write-str
      (let [deleted-book (db/delete-book (Integer/parseInt id))]
