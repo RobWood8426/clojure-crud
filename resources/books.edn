@@ -1,0 +1,79 @@
+[{:book/title "To Kill a Mockingbird"
+  :book/description "A novel about the serious issues of race and rape, told through the eyes of young Scout Finch in the American South."
+  :book/published "1960-07-11"}
+
+ {:book/title "1984"
+  :book/description "A dystopian novel set in a totalitarian society ruled by Big Brother and the Party, where surveillance is pervasive."
+  :book/published "1949-06-08"}
+
+ {:book/title "Pride and Prejudice"
+  :book/description "A classic romance novel exploring the complexities of marriage, love, and society in 19th century England."
+  :book/published "1813-01-28"}
+
+ {:book/title "The Great Gatsby"
+  :book/description "A critique of the American Dream set in the Jazz Age, focusing on the life and tragic downfall of Jay Gatsby."
+  :book/published "1925-04-10"}
+
+ {:book/title "Moby-Dick"
+  :book/description "An epic tale of obsession and revenge as Captain Ahab hunts the elusive white whale, Moby-Dick."
+  :book/published "1851-10-18"}
+
+ {:book/title "War and Peace"
+  :book/description "A sprawling historical novel set during the Napoleonic Wars, exploring the lives of Russian aristocrats."
+  :book/published "1869"}
+
+ {:book/title "The Catcher in the Rye"
+  :book/description "A coming-of-age story following Holden Caulfield, a teenager who grapples with loneliness and loss in New York City."
+  :book/published "1951-07-16"}
+
+ {:book/title "The Lord of the Rings"
+  :book/description "An epic fantasy adventure following Frodo Baggins and the Fellowship as they attempt to destroy the One Ring."
+  :book/published "1954-07-29"}
+
+ {:book/title "Jane Eyre"
+  :book/description "A Gothic romance novel detailing the struggles and growth of the orphaned Jane Eyre as she finds love and independence."
+  :book/published "1847-10-16"}
+
+ {:book/title "The Hobbit"
+  :book/description "A prelude to The Lord of the Rings, following Bilbo Baggins on an unexpected adventure to reclaim a mountain and treasure."
+  :book/published "1937-09-21"}
+
+ {:book/title "Fahrenheit 451"
+  :book/description "A dystopian novel where books are banned, and 'firemen' burn any that are found, exploring themes of censorship and technology."
+  :book/published "1953-10-19"}
+
+ {:book/title "Crime and Punishment"
+  :book/description "A psychological novel exploring guilt and redemption as a young man commits murder and struggles with his conscience."
+  :book/published "1866"}
+
+ {:book/title "The Odyssey"
+  :book/description "An ancient Greek epic poem following Odysseus's ten-year journey home after the Trojan War."
+  :book/published "8th century BC"}
+
+ {:book/title "The Brothers Karamazov"
+  :book/description "A philosophical novel about family conflict, faith, and morality in a Russian town, centering on the Karamazov family."
+  :book/published "1880"}
+
+ {:book/title "The Divine Comedy"
+  :book/description "An epic poem that takes the reader through Hell, Purgatory, and Paradise, exploring the soul's journey toward God."
+  :book/published "1320"}
+
+ {:book/title "Brave New World"
+  :book/description "A dystopian novel set in a highly controlled society where happiness is maintained artificially, raising questions about freedom."
+  :book/published "1932"}
+
+ {:book/title "Wuthering Heights"
+  :book/description "A tale of love and revenge on the Yorkshire moors, focusing on the turbulent relationship between Heathcliff and Catherine."
+  :book/published "1847-12-01"}
+
+ {:book/title "One Hundred Years of Solitude"
+  :book/description "A magical realist novel following the Buendía family over seven generations in the fictional town of Macondo."
+  :book/published "1967"}
+
+ {:book/title "Frankenstein"
+  :book/description "A Gothic novel about Dr. Victor Frankenstein, who creates a monstrous being that becomes an outcast and seeks revenge."
+  :book/published "1818-01-01"}
+
+ {:book/title "Don Quixote"
+  :book/description "A comedic and tragic novel about a delusional knight, Don Quixote, and his loyal squire, Sancho Panza, as they seek adventure."
+  :book/published "1605"}]
